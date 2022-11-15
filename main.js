@@ -55,21 +55,34 @@ if ('speechSynthesis' in window) {
 
 function speak(num){
     text = {
-        0: "Dissapointed with SEXUAL HEALTH SERVICES in the UK and want to inspire change?",
+        0: "YOUR OPINION MATTERS TO us!",
         1: "We are seeking ideas about how sexual health services for adults over the age of 45 can be improved in the UK.",
-        2: "What is Sexual Health?",
-        3: "sexual health is an integral part of our overall health and well-being",
+        2: "We have ladies in their 90s who don’t even know where their bits are. At the same time, there are 70-year-old gay men who are taking stimulants while they have anal sex. There is no one size fits all for sexual health among older adults.",
+        3: "What is Sexual Health?. sexual health is an integral part of our overall health and well-being        ",
         4: "Sexual Health is the ability for us to enjoy, and express our sexuality, free from physical, psychological, and social pressures.",
         5: "Why Sexual Health for over 45s?",
         6: "People have needs and desires for intimacy and sex, regardless of their age. Issues such as low sexual function, distress about sex, or an elevated risk for sexually transmitted infections are common throughout every point in life. These are further complicated by disabilities and chronic conditions that are common among people over 45 years old. Why Sexual Health for over 45s?",
         7: "Despite sexual health being an integral part of our overall health and wellbeing, sexual health services in the UK often focus on younger populations. The UK population is ageing, and the current NHS services are not up to the standard needed to support our ageing society.",
         8: "Improving access to and utilization of essential sexual health services is something that we can change with your help!",
-        9: "What do we ask from you?",
+        9: "What do we need from you?",
         10: "If you have ideas on ways to improve the sexual health services offered in the UK for over 45’s, we want to hear from you!",
         11: "We are interested to hear from people from all backgrounds so that submissions represent society at large - your voice matters to us.",
         12: "Breaking Barriers. Ideas for reducing existing barriers that prevent older adults from accessing services",
         13: "Accessing Services. Ideas on how to improve the means through which sexual health services are delivered.",
-        14: "",
+        15: "Inclusive Practices. Ideas on how to encourage inclusive practices in the provision of sexual health services",
+        16: "Tailoring to Needs. Ideas on how to tailor sexual health services to the needs of older adults",
+        17: "Messaging with Purpose. Ideas on messages/campaigns to enhance perception and uptake of sexual health services in older adults",
+        18: "Guideline for Contributions",
+        19: "Eligibility (Participant). Resident in the United Kingdom continuously in the last 6 months. All ages are welcome (participation of those aged 45 years and above is encouraged)",
+        20: "Eligibility (Submission). Related to sexual health services in the UK. Relevant to adults age 45 plus",
+        21: "Langauge for Entries. English and British Sign Language with supporting English Transcript",
+        22: "What are we looking for?",
+        24: "Submissions will be judged on a 1 to 10 scale according to the following criteria.",
+        25: "Clarity. Clear and concise description of your innovation or solution",
+        26: "Feasibility. Feasibility and suitability in the UK setting",
+        27: "Orginality. Does the proposed solution promote new ideas towards addressing the issues described?",
+        28: "Implementability. Potential for adaptation and implementation",
+
 
 
 
