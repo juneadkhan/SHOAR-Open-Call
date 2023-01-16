@@ -57,11 +57,11 @@ function speak(num){
     text = {
         0: "YOUR OPINION MATTERS TO us!",
         1: "We are seeking ideas about how sexual health services for adults over the age of 45 can be improved in the UK.",
-        2: "We have ladies in their 90s who don’t even know where their bits are. At the same time, there are 70-year-old gay men who are taking stimulants while they have anal sex. There is no one size fits all for sexual health among older adults.",
+        2: "We have ladies in their 90s who don’t know where their bits are. At the same time, there are 70-year-old gay men who are taking stimulants while they have anal sex. There is no one size fits all for sexual health among older adults.",
         3: "What is Sexual Health?. sexual health is an integral part of our overall health and well-being        ",
         4: "Sexual Health is the ability for us to enjoy, and express our sexuality, free from physical, psychological, and social pressures.",
         5: "Why Sexual Health for over 45s?",
-        6: "People have needs and desires for intimacy and sex, regardless of their age. Issues such as low sexual function, distress about sex, or an elevated risk for sexually transmitted infections are common throughout every point in life. These are further complicated by disabilities and chronic conditions that are common among people over 45 years old. Why Sexual Health for over 45s?",
+        6: "People have needs and desires for intimacy and sex, regardless of their age. Issues such as sexual difficulties, distress about sex, or an elevated risk for sexually transmitted infections are common throughout every point in life. These are further complicated by disabilities and chronic conditions that are common among people as people approach the age of 45 and above. Despite this, sexual health services in the UK often focus on younger populations.",
         7: "Despite sexual health being an integral part of our overall health and wellbeing, sexual health services in the UK often focus on younger populations. The UK population is ageing, and the current NHS services are not up to the standard needed to support our ageing society.",
         8: "Improving access to and utilization of essential sexual health services is something that we can change with your help!",
         9: "What do we need from you?",
@@ -80,7 +80,7 @@ function speak(num){
         24: "Submissions will be judged on a 1 to 10 scale according to the following criteria.",
         25: "Clarity. Clear and concise description of your innovation or solution",
         26: "Feasibility. Feasibility and suitability in the UK setting",
-        27: "Orginality. Does the proposed solution promote new ideas towards addressing the issues described?",
+        27: "Originality. Does the proposed solution promote new ideas towards addressing the issues described?",
         28: "Implementability. Potential for adaptation and implementation",
 
 
