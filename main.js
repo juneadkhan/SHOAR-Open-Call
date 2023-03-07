@@ -3,7 +3,11 @@ var themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
 
 // Change the icons inside the button based on previous settings
 if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-    themeToggleLightIcon.classList.remove('hidden');
+    try{
+        themeToggleLightIcon.classList.remove('hidden');
+    } catch{
+        console.log("ERR")
+    }
 } else {
     themeToggleDarkIcon.classList.remove('hidden');
 }
