@@ -58,6 +58,14 @@ if ('speechSynthesis' in window) {
   }
 
 function speak(num){
+
+    gtag('event', 'speech_button', {
+        'event_category': 'Speech',
+        'event_label': 'Speech',
+        'value': 1
+    });
+
+
     text = {
         0: "YOUR OPINION MATTERS TO us!",
         1: "We are seeking ideas about how sexual health services for adults over the age of 45 can be improved in the UK.",
