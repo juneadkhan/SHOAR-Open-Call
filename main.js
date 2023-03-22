@@ -65,6 +65,20 @@ function speak(num){
         'value': 1
     });
 
+    const measurement_id = `G-R9ZDECLYJ1`;
+    const api_secret = `WeF6TMEjRWqHj06QrX-QUw`;
+
+    fetch(`https://www.google-analytics.com/mp/collect?measurement_id=${measurement_id}&api_secret=${api_secret}`, {
+    method: "POST",
+    body: JSON.stringify({
+        client_id: 'XXXXXXXXXX.YYYYYYYYYY',
+        events: [{
+        name: 'tutorial_begin',
+        params: {},
+        }]
+    })
+    });
+
 
     text = {
         0: "YOUR OPINION MATTERS TO us!",
